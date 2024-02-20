@@ -1,7 +1,0 @@
-D:\C#\FastCampus\017_Data_bool\bin\Debug\017_Data_bool.exe.config
-D:\C#\FastCampus\017_Data_bool\bin\Debug\017_Data_bool.exe
-D:\C#\FastCampus\017_Data_bool\bin\Debug\017_Data_bool.pdb
-D:\C#\FastCampus\017_Data_bool\obj\Debug\017_Data_bool.csproj.AssemblyReference.cache
-D:\C#\FastCampus\017_Data_bool\obj\Debug\017_Data_bool.csproj.CoreCompileInputs.cache
-D:\C#\FastCampus\017_Data_bool\obj\Debug\017_Data_bool.exe
-D:\C#\FastCampus\017_Data_bool\obj\Debug\017_Data_bool.pdb

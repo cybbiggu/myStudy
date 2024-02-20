@@ -1,6 +1,0 @@
-D:\C#\FastCampus\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe.config
-D:\C#\FastCampus\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe
-D:\C#\FastCampus\002_HelloWorld2\bin\Debug\002_HelloWorld2.pdb
-D:\C#\FastCampus\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.CoreCompileInputs.cache
-D:\C#\FastCampus\002_HelloWorld2\obj\Debug\002_HelloWorld2.exe
-D:\C#\FastCampus\002_HelloWorld2\obj\Debug\002_HelloWorld2.pdb

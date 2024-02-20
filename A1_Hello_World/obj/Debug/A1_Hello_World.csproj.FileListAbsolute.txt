@@ -1,0 +1,7 @@
+D:\C#\myStudy\A1_Hello_World\bin\Debug\A1_Hello_World.exe.config
+D:\C#\myStudy\A1_Hello_World\bin\Debug\A1_Hello_World.exe
+D:\C#\myStudy\A1_Hello_World\bin\Debug\A1_Hello_World.pdb
+D:\C#\myStudy\A1_Hello_World\obj\Debug\A1_Hello_World.csproj.AssemblyReference.cache
+D:\C#\myStudy\A1_Hello_World\obj\Debug\A1_Hello_World.csproj.CoreCompileInputs.cache
+D:\C#\myStudy\A1_Hello_World\obj\Debug\A1_Hello_World.exe
+D:\C#\myStudy\A1_Hello_World\obj\Debug\A1_Hello_World.pdb
